@@ -1,0 +1,55 @@
+# Strict Allowlist — Track ONLY essential files required to produce 60fps/30fps viral Shorts
+/*
+
+# 1. Agent Production Blueprints & Rules
+!.gitignore
+!README.md
+!AGENTS.md
+!.agents/
+!.agents/rules/
+!.agents/rules/kurose-viral-shorts-blueprint.md
+!.agents/rules/viral-shorts-editing.md
+
+# 2. Core 60fps & 30fps Python/FFmpeg Production Pipeline
+!scripts/
+scripts/*
+!scripts/align_ageless_eleven115.py
+!scripts/calibrate_ageless_shots.py
+!scripts/master_ageless_audio.py
+!scripts/build_ageless_jp_kurose_short.py
+!scripts/qc_ageless_short.sh
+!scripts/download_ageless_clips.py
+!scripts/inspect_ageless_candidates.py
+!scripts/nexivo_caption_arrow.py
+!scripts/align_elevenlabs_vo.py
+!scripts/master_cosplay_audio.py
+!scripts/build_cosplay_nexivo_short.py
+!scripts/qc_cosplay_short.sh
+
+# 3. Required Fonts, Self-Contained SFX Library & Compact BGM
+!assets/
+assets/*
+!assets/sfx_credits.json
+!assets/fonts/
+assets/fonts/*
+!assets/fonts/ArchivoBlack-Regular.ttf
+!assets/fonts/ZenKakuGothicNew-Bold.ttf
+!assets/sfx/
+!assets/sfx/**
+!assets/audio/
+assets/audio/*
+!assets/audio/bling_bang_bang_born_full.m4a
+
+# 4. Reference Corpus Index & Script / SEO Templates
+!research/
+research/*
+!research/kurose_top20/
+research/kurose_top20/*
+!research/kurose_top20/INDEX.md
+!output/
+output/*
+!output/ELEVENLABS_SCRIPT_AGELESS_JP.md
+!output/YOUTUBE_METADATA_AGELESS_JP.md
+
+# Always ignore OS metadata inside allowlisted folders
+**/.DS_Store

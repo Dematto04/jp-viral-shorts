@@ -1,0 +1,127 @@
+{
+  "swoosh_fast": {
+    "file": "swoosh_fast.wav",
+    "title": "Fast small sweep transition (SFX 166)",
+    "source_url": "https://mixkit.co/free-sound-effects/transition/",
+    "creator": "Mixkit",
+    "license": "Mixkit Free License"
+  },
+  "whoosh_soft": {
+    "file": "whoosh_soft.wav",
+    "title": "Air woosh (SFX 1489)",
+    "source_url": "https://mixkit.co/free-sound-effects/whoosh/",
+    "creator": "Mixkit",
+    "license": "Mixkit Free License"
+  },
+  "ui_pop": {
+    "file": "ui_pop.wav",
+    "title": "Message pop alert (SFX 2354)",
+    "source_url": "https://mixkit.co/free-sound-effects/pop/",
+    "creator": "Mixkit",
+    "license": "Mixkit Free License"
+  },
+  "pop_click": {
+    "file": "pop_click.wav",
+    "title": "Hard pop click (SFX 2364)",
+    "source_url": "https://mixkit.co/free-sound-effects/pop/",
+    "creator": "Mixkit",
+    "license": "Mixkit Free License"
+  },
+  "shutter": {
+    "file": "shutter.wav",
+    "title": "Camera shutter click (SFX 1133)",
+    "source_url": "https://mixkit.co/free-sound-effects/camera/",
+    "creator": "Mixkit",
+    "license": "Mixkit Free License"
+  },
+  "key_tick": {
+    "file": "key_tick.wav",
+    "title": "Select click (SFX 1109)",
+    "source_url": "https://mixkit.co/free-sound-effects/click/",
+    "creator": "Mixkit",
+    "license": "Mixkit Free License"
+  },
+  "bass_drop": {
+    "file": "bass_drop.wav",
+    "title": "Short bass hit (SFX 2299)",
+    "source_url": "https://mixkit.co/free-sound-effects/bass/",
+    "creator": "Mixkit",
+    "license": "Mixkit Free License"
+  },
+  "record_stop": {
+    "file": "record_stop.wav",
+    "title": "Vinyl stop fast scratch (SFX 704)",
+    "source_url": "https://mixkit.co/free-sound-effects/record/",
+    "creator": "Mixkit",
+    "license": "Mixkit Free License"
+  },
+  "paper_slide": {
+    "file": "paper_slide.wav",
+    "title": "Paper slide (SFX 1530)",
+    "source_url": "https://mixkit.co/free-sound-effects/paper/",
+    "creator": "Mixkit",
+    "license": "Mixkit Free License"
+  },
+  "soft_chime": {
+    "file": "soft_chime.wav",
+    "title": "Correct answer tone (SFX 2870)",
+    "source_url": "https://mixkit.co/free-sound-effects/notification/",
+    "creator": "Mixkit",
+    "license": "Mixkit Free License"
+  },
+  "stamp_hit": {
+    "file": "stamp_hit.wav",
+    "title": "Big cinematic impact",
+    "source_url": "https://mixkit.co/free-sound-effects/hit/",
+    "creator": "Mixkit",
+    "license": "Mixkit Free License"
+  },
+  "anime_boi_shout": {
+    "file": "anime_boi_shout.wav",
+    "mp3": "anime_boi_shout.mp3",
+    "title": "Short vocal exclamation / anime shout pop SFX (0.59s)",
+    "source_url": "user_uploaded",
+    "creator": "User Provided SFX Pack",
+    "license": "Project Internal Use"
+  },
+  "kabuki_pon_chime": {
+    "file": "kabuki_pon_chime.wav",
+    "mp3": "kabuki_pon_chime.mp3",
+    "title": "Japanese traditional Kabuki pon / resonant strike SFX (1.06s)",
+    "source_url": "user_uploaded",
+    "creator": "User Provided SFX Pack",
+    "license": "Project Internal Use"
+  },
+  "whip_crack_slap": {
+    "file": "whip_crack_slap.wav",
+    "mp3": "whip_crack_slap.mp3",
+    "title": "Fast swish + whip-crack slapstick impact SFX (1.35s)",
+    "source_url": "user_uploaded",
+    "creator": "User Provided SFX Pack",
+    "license": "Project Internal Use"
+  },
+  "wood_bonk_pop": {
+    "file": "wood_bonk_pop.wav",
+    "mp3": "wood_bonk_pop.mp3",
+    "title": "Crisp hollow wooden bonk / knock pop SFX (0.43s)",
+    "source_url": "user_uploaded",
+    "creator": "User Provided SFX Pack",
+    "license": "Project Internal Use"
+  },
+  "whoosh_whip_fast": {
+    "file": "whoosh_whip_fast.wav",
+    "mp3": "whoosh_whip_fast.mp3",
+    "title": "Crisp fast air whip / transition swoosh SFX (0.65s)",
+    "source_url": "user_uploaded",
+    "creator": "User Provided SFX Pack",
+    "license": "Project Internal Use"
+  },
+  "quick_tip": {
+    "file": "quick_tip.wav",
+    "mp3": "quick_tip.mp3",
+    "title": "Clean quick tip chime / bell pop SFX (0.94s)",
+    "source_url": "user_uploaded",
+    "creator": "User Provided SFX Pack",
+    "license": "Project Internal Use"
+  }
+}
